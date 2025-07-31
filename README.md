@@ -6,7 +6,7 @@
 
 # 📅 Event Management System
 
-A web-based Event Management platform where users can create, manage, and view events.
+A web-based backend for Event Management platform where users can create, manage, and view events.
 
 ## ✨ Features
 
@@ -20,7 +20,6 @@ A web-based Event Management platform where users can create, manage, and view e
 
 - Backend: Node.js, Express.js
 - Database: MongoDB (Mongoose)
-- Frontend: EJS (Embedded JavaScript)
 - Session Management: express-session
 
 
@@ -35,7 +34,7 @@ npm run dev
 
 # 💼 Job Portal Management System
 
-A full-featured Job Portal web application built with Node.js, Express, MongoDB, and EJS.
+A full-featured backend for Job Portal web application built with Node.js, Express, MongoDB.
 
 ## 🚀 Features
 
@@ -49,8 +48,7 @@ A full-featured Job Portal web application built with Node.js, Express, MongoDB,
 
 - Backend: Node.js, Express.js
 - Database: MongoDB (Mongoose)
-- Frontend: EJS (Embedded JavaScript Templating)
-- Authentication: Passport.js or JWT (as per your implementation)
+- Authentication:  JWT 
 
 
 ## 🧪 Run Locally
