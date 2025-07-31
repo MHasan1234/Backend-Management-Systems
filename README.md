@@ -1,4 +1,8 @@
+---
 
+### 📁 `event-management/README.md`
+
+```markdown
 
 # 📅 Event Management System
 
