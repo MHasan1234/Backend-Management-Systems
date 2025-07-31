@@ -1,6 +1,6 @@
 ---
 
-### 📁 `event-management/README.md`
+### 📁 `backend-management/README.md`
 
 ```markdown
 
